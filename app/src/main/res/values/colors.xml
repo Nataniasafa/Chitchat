@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    //blue
+    <color name="darkblue">#001970</color>
+    <color name="semidarkblue">#303f9f</color>
+    <color name="nodarkblue">#666ad1</color>
+
+    //purple
+    <color name="darkpurple">#4a0072 </color>
+    <color name="semidarkpurple">#7b1fa2</color>
+    <color name="nodarkpurplr">#ae52d4</color>
+</resources>
+
+
+

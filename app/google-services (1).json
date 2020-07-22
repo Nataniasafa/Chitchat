@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25998074024",
+    "firebase_url": "https://chitchat-dcab4.firebaseio.com",
+    "project_id": "chitchat-dcab4",
+    "storage_bucket": "chitchat-dcab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25998074024:android:43cd7c9a23aa35752d629d",
+        "android_client_info": {
+          "package_name": "com.natania.chitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25998074024-takhkof556f8katknh2nfolbl73ff927.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.natania.chitchat",
+            "certificate_hash": "2a697b0a16f2eb18dc40857552442b76bfb7d4b4"
+          }
+        },
+        {
+          "client_id": "25998074024-2pjomooi8vea23kkkkthlg48otamncr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_e1KHHKu6ICZsvLqKIAH4yr0N_rOIw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25998074024-2pjomooi8vea23kkkkthlg48otamncr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
